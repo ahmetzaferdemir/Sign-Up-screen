@@ -1,0 +1,48 @@
+*
+{
+ font-family: Montserrat, sans, sans-serif;
+}
+
+html
+{
+ background-color: rgb(217, 217, 217);
+}
+
+div
+{
+ background-color: rgb(217, 217, 217);
+}
+
+#caption
+{
+ font-size: 50px;
+ color: #eb8249
+}
+
+form
+{
+ font-size: 14px;
+}
+
+#formdiv
+{
+ margin-top: 100px;
+}
+
+input[type=text], input[type=email], input[type=tel], #city, #street
+{
+ border: solid black 1px;
+ font-weight: bolder;
+}
+
+#btn1, #btn2
+{
+ border: solid black 1px;
+ background-color: rgb(217, 217, 217)
+}
+
+#btn1:hover, #btn2:hover
+{
+ background-color: #eb8249;
+ color: white
+}
